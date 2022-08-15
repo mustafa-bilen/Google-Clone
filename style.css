@@ -56,13 +56,12 @@
     justify-content: center;
     flex-direction: column;
     text-align: center;
-    margin-top: 15%;
-    
+    margin-top: 13.5%;
 }
 
 .search-bar {
-    border: 1px solid #D3D3D3;
-    border-radius: 1.3rem;
+    border: 0.5px solid #D3D3D3;
+    border-radius: 2rem;
     height: 2.925rem;
     margin: 1rem auto;
     max-width: 580px;
@@ -86,7 +85,7 @@
     border: none;
     border-radius: 0.25rem;
     margin: .938rem 0px;
-    padding: 0px 1rem;
+    padding: 0px 0.5rem;
     opacity: .7;
     
 }
@@ -106,6 +105,7 @@
     padding-top: .6rem;
     padding-right: .1rem;
     padding: .1rem;
+    margin-left: 10px;
 
 }
 
@@ -114,7 +114,9 @@
     float: right; 
     margin-top: 0.5rem;
     margin-right: 0.5rem;
-    padding: .1rem;
+    margin-top: 0px;
+    padding: 0.1rem;
+    margin-right: 10px;
 }
 
 .main-language {
