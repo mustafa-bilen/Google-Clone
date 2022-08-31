@@ -1,4 +1,4 @@
-# Google-Clone 🦾 
+# Google-Clone 🔍
 
 
 👉 Responsive Google-clone just footer is little bad :'). <br> 👉 I use HTML and CSS in this project. <br> 👉 this website is very good practice for flexbox and floats.
